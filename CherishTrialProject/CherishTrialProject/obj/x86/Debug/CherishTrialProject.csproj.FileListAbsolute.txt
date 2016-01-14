@@ -5,3 +5,5 @@ c:\users\zhux59\documents\visual studio 2010\Projects\CherishTrialProject\Cheris
 c:\users\zhux59\documents\visual studio 2010\Projects\CherishTrialProject\CherishTrialProject\obj\x86\Debug\CherishTrialProject.csproj.GenerateResource.Cache
 c:\users\zhux59\documents\visual studio 2010\Projects\CherishTrialProject\CherishTrialProject\obj\x86\Debug\CherishTrialProject.exe
 c:\users\zhux59\documents\visual studio 2010\Projects\CherishTrialProject\CherishTrialProject\obj\x86\Debug\CherishTrialProject.pdb
+C:\Users\zhux59\Documents\GitHub\CherishTestBranchandMerge\CherishTrialProject\CherishTrialProject\obj\x86\Debug\CherishTrialProject.exe
+C:\Users\zhux59\Documents\GitHub\CherishTestBranchandMerge\CherishTrialProject\CherishTrialProject\obj\x86\Debug\CherishTrialProject.pdb
