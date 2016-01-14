@@ -23,7 +23,7 @@ namespace CherishTrialProject
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.textBox1.Text = "Hello world";
+            this.textBox1.Text = "Hello world again again";
         }
     }
 }
