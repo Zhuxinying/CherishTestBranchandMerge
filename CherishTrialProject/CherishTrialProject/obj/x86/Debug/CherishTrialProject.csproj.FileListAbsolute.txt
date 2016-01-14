@@ -1,0 +1,7 @@
+c:\users\zhux59\documents\visual studio 2010\Projects\CherishTrialProject\CherishTrialProject\bin\Debug\CherishTrialProject.exe
+c:\users\zhux59\documents\visual studio 2010\Projects\CherishTrialProject\CherishTrialProject\bin\Debug\CherishTrialProject.pdb
+c:\users\zhux59\documents\visual studio 2010\Projects\CherishTrialProject\CherishTrialProject\obj\x86\Debug\CherishTrialProject.Form1.resources
+c:\users\zhux59\documents\visual studio 2010\Projects\CherishTrialProject\CherishTrialProject\obj\x86\Debug\CherishTrialProject.Properties.Resources.resources
+c:\users\zhux59\documents\visual studio 2010\Projects\CherishTrialProject\CherishTrialProject\obj\x86\Debug\CherishTrialProject.csproj.GenerateResource.Cache
+c:\users\zhux59\documents\visual studio 2010\Projects\CherishTrialProject\CherishTrialProject\obj\x86\Debug\CherishTrialProject.exe
+c:\users\zhux59\documents\visual studio 2010\Projects\CherishTrialProject\CherishTrialProject\obj\x86\Debug\CherishTrialProject.pdb
